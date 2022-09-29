@@ -1,0 +1,10 @@
+LXI   ->  load immediatly the content on memory location 
+LDA ->  load into accumulator
+
+MOV A  -> move the content to the accumulator
+CMA -> it is used to compliment in to accumlator 
+STA  -> store the value into accumulator .
+INR -> increment the memory location by one.
+INX ->increment tHE VALUE  at very next moment
+ADI -> add immediatly 
+JNC -> jump statement  
